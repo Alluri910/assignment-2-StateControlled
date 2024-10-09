@@ -10,7 +10,7 @@ function TodoList() {
   return (
     <Container fluid="md">
       <Row className="text-center mb-3 mt-3">
-        <Col><div className="t-title">Assignment 2: Will's ToDo List</div></Col>
+        <Col><div className="t-title">Assignment 2: Bhagath's ToDo List</div></Col>
       </Row>
 
       <Row>
